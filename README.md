@@ -1,7 +1,6 @@
 # MyTaskManager
 ## 概要
 - GASとLINEAPIを用いて作成された個人用タスクマネージャ
-- GoogleClendarとの連携が必要
 - コピペして利用してください
 ## 機能
 - ToDoリストへの追加, 削除
